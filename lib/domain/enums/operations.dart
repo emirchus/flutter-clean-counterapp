@@ -1,0 +1,4 @@
+enum OperationType {
+  plus,
+  subtract,
+}
